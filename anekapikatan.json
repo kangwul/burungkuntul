@@ -1,0 +1,315 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "image": "file:///android_asset/image/khalid.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Hanan Attaki",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Mr. Kim",
+      "image": "file:///android_asset/image/kim.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Ammi Nur Bait",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Adi Hidayat",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat Gelatik Batu",
+      "image": "https://i.pinimg.com/564x/87/7e/b1/877eb18075a7ca82bfa75276a40a2f57.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/GELATIK%20BATU%20PIKAT.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 2,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat Kacer Gacor",
+      "image": "https://i.pinimg.com/564x/90/e5/72/90e57233dce33a3d0bac130175360427.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/KACER%20PIKAT%20GACOR.mp3",
+      "lyrics": "kosong" },
+    {
+      "id": 3,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat Kenari Gacor",
+      "image": "https://i.pinimg.com/564x/ad/35/53/ad3553c4e600c252a992d5cc680f3910.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/KENARI%20NEMBAK%20GACOR.mp3",
+      "lyrics": "kosong"
+    },
+    {
+      "id": 4,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "KUTILANG GACOR Master Pikat",
+      "image": "https://i.pinimg.com/564x/37/d9/9f/37d99f2c43fda8169ea92c6c68a2c3db.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/KUTILANG%20GACOR%20PIKAT.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Decu Raja Pikat",
+      "image": "https://i.pinimg.com/564x/ec/a5/2b/eca52b2df7f8df8c1c0f17d7f8ec1e8e.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/MASTERAN%20BURUNG%20DECU.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Ciblek Gacor Master Pikat",
+      "image": "https://i.pinimg.com/564x/1f/ca/d3/1fcad368747b1688caf061cfec2f6656.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/MASTERAN%20PIKAT%20CIBLEK.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 7,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Anis Kembang Ngerol MASTER Pikat",
+      "image": "https://i.pinimg.com/736x/db/ad/8e/dbad8e592bc2df9d2b66f674916f74f7.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PANCINGAN%20BURUNG%20ANIS%20KEMBANG.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 8,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Pancingan Kenari RAJA Pikat",
+      "image": "https://i.pinimg.com/236x/0b/6f/eb/0b6feb602e6f241d901b9585d6923d56.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PANCINGAN%20KENARI%20GACOR.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "MASTER Beo Pikat Ampuh",
+      "image": "https://i.pinimg.com/564x/f4/bc/8f/f4bc8f9925076efa3b49be5e7623b1f0.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20BURUNG%20BEO%20GACOR.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat Jalak Kebo Ampuh",
+      "image": "https://i.pinimg.com/564x/42/d4/f1/42d4f1d97737e1cbfd28cf593fc364dc.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20BURUNG%20JALAK%20KEBO.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "RAJA Pikat Ampuh KOLIBRI",
+      "image": "https://i.pinimg.com/736x/54/eb/88/54eb884d4f6caf5318f43ab31e2a40e2.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20BURUNG%20KOLIBRI.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Tekukur Ngerol Master Pikat",
+      "image": "https://i.pinimg.com/236x/0b/31/68/0b31681363a7969b635a2c14da9989f6.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20BURUNG%20TEKUKUR.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Pikat Ampuh Master Trucuk",
+      "image": "https://i.pinimg.com/236x/b3/74/eb/b374eb46b8e65985504c08c531a3b589.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20BURUNG%20TRUCUK.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Kacer Gacor MASTER Pikat",
+      "image": "https://i.pinimg.com/564x/6e/0a/73/6e0a73aca7ef15f79dafbdc0b4266db4.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20KACER.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat MURAI Batu Gacor ",
+      "image": "https://i.pinimg.com/564x/c5/92/c1/c592c16dac79d266860c1f022c08fcbb.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20MURAI%20BATU%20ASLI.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat Jalak Ampuh",
+      "image": "https://i.pinimg.com/564x/c2/9d/45/c29d45f6b1853bc2bdef7b7996fa95b0.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20BURUNG%20JALAK.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat SEgala Burung Kecil",
+      "image": "https://i.pinimg.com/564x/7b/65/58/7b6558558518993c4cccc19b95b45fa7.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20SEMUA%20BURUNG%20KECIL.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Sogok Ontong Si Raja Pikat",
+      "image": "https://i.pinimg.com/564x/ec/2f/fd/ec2ffdf5da4f432be1012894f76330a8.jpg",
+      "link_mp3": "https://archive.org/download/pikat-burung-lovebird/PIKAT%20SOGOK%20ONTONG%20JANTAN%20BETINA.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Perkutut Master Pikat1",
+      "image": "https://i.pinimg.com/564x/5d/d1/26/5dd126b808a14e884505ef9f3c49b758.jpg",
+      "link_mp3": "https://archive.org/download/suara-burung-perkutut-master/Suara%20Burung%20Perkutut%20Master%20%281%29.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Perkutut Masteran Pikat 2",
+      "image": "https://i.pinimg.com/236x/40/23/e8/4023e827706113a317081c0078da4a6f.jpg",
+      "link_mp3": "https://archive.org/download/suara-burung-perkutut-master/Suara%20Burung%20Perkutut%20Master%20%2810%29.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 21
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Perkutut Pikat3",
+      "image": "https://i.pinimg.com/236x/f8/6a/2d/f86a2deee67bc00c403afeecfc689f21.jpg",
+      "link_mp3": "https://archive.org/download/suara-burung-perkutut-master/Suara%20Burung%20Perkutut%20Master%20%2811%29.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Perkutut Pikat 4",
+      "image": "https://i.pinimg.com/236x/e3/99/61/e399617e0f410945a0389481f7b9e343.jpg",
+      "link_mp3": "https://archive.org/download/suara-burung-perkutut-master/Suara%20Burung%20Perkutut%20Master%20%2812%29.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat Cucak Ijo",
+      "image": "https://i.pinimg.com/236x/de/8f/5c/de8f5c35efe6f0044b2c56b8aba0abdf.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-cucak-ijo-juara/cucak%20ijo%20%281%29.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 24,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat Cendet Ampuh",
+      "image": "https://i.pinimg.com/736x/95/75/f5/9575f5bf35d0c332fff011c7174c7ccd.jpg",
+      "link_mp3": "https://archive.org/download/kicau-burung-cendet-juara/kicau%20burung%20cendet%20offline%20%2810%29.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 25,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Sikatan Pikat Ampuh",
+      "image": "https://cf.shopee.co.id/file/95e364ac6a24768b514bf5b39c79a2e1",
+      "link_mp3": "https://archive.org/download/materisuaraburungsikatanlondomasteranhitstembakanfullspeedrapetdurasi/Burung%20Sikatan%20Gacor%20Masteran%20Istimewa.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 26,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Cucak Rowo Gacor Panjang",
+      "image": "https://i.pinimg.com/564x/20/13/cc/2013ccf3f18b24cbd2d4e9520393b9c7.jpg",
+      "link_mp3": "https://archive.org/download/y-2mate.com-suara-cucak-rowo-gacor-untuk-masteran-dan-pancingan-burung-ocehan/y2mate.com%20-%20Cucak%20Rowo%20Ropel%20Gacor.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 27,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Cililin Ngerol Panjang",
+      "image": "https://i.pinimg.com/564x/73/7e/68/737e689743d64fe5a306445868931510.jpg",
+      "link_mp3": "https://archive.org/download/SuaraKicauanBurungCililinDurasiPanjang/1.%20Suara%20Kicauan%20Burung%20Cililin%20Durasi%20Panjang.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 28,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Ngerol Panjang Tengkek Buto",
+      "image": "https://rajakicau.com/wp-content/uploads/2021/12/Burung-Tengkek.jpg",
+      "link_mp3": "https://archive.org/download/suara-burung-tengkek-buto/tembakan%20ngebrem%20vol%201.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 29,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Master Pikat Si Kecil Ciblek",
+      "image": "https://i.pinimg.com/564x/94/96/1b/94961b17358c44ac5118f00ebd01bcbc.jpg",
+      "link_mp3": "https://archive.org/download/SuaraCiblekSemiDurasiPanjang/Suara%20Ciblek%20Semi%20Durasi%20Panjang.mp3",
+      "lyrics": "kosong"
+    }
+  ,
+    {
+      "id": 30,
+      "name_category": "ANEKA BURUNG PIKAT",
+      "title": "Ngerol Panjang Master Kenari",
+      "image": "https://i.pinimg.com/564x/e2/00/13/e20013246216095f583e21db446849f9.jpg",
+      "link_mp3": "https://archive.org/download/masterankenari/Kicau%20Kenari%20F1%20untuk%20Melatih%20Suara%20Kenari%20agar%20Gacor%20-%20Suara%20Kenari%20Gacor%20Masteran.mp3",
+      "lyrics": "kosong"
+    }
+  ]
+}
